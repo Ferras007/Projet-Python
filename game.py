@@ -1,10 +1,11 @@
 import pygame
 import random
 
-from unit import *
+from unit import 
 
 
-class Game:
+class Game:      #testttt
+
     """
     Classe pour représenter le jeu.
 
